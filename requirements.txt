@@ -1,0 +1,5 @@
+django
+django-allauth
+Pillow  # For image uploads
+djangorestframework  # For API integration, optional
+django-crispy-forms  # For better form rendering
